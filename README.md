@@ -1,3 +1,7 @@
+# Deprecation warning
+Microsoft has deprecated wmic in Windows 10 and removed wmic in Windows 11. 
+The sdp-wmicprovider is as is and will be deprecated whith the same terms.
+
 # Overview
 We encourage you are familiar with the [Appgate Extension](https://github.com/appgate/sdp-extensions/) before continuing.
 
